@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=EZtoolkit
+Comment=Mein cooles Toolkit für Linux
+Exec=python3 /home/mika/eztoolkit-v1/usr/bin/eztoolkit.py
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=Utility;
+
+
+
+

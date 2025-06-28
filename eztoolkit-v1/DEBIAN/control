@@ -1,0 +1,7 @@
+Package: eztoolkit
+Version: 1.0
+Architecture: all
+Maintainer: Mika
+Depends: python3, python3-tk, python3-psutil
+Description: EZtoolkit ist ein kleines Toolkit für Linux mit Tools wie Taschenrechner und Cleaner.
+
